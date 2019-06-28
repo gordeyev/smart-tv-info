@@ -39,3 +39,11 @@ tizen security-profiles list
 ```shell
 tizen security-profiles set-active -n <profile name>
 ```
+
+##### Tizen cli
+```shell
+export PATH=$PATH:~/tizen-studio/tools
+```
+```shell
+export PATH=$PATH:~/tizen-studio/tools/ide/bin
+```
